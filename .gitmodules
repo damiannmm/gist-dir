@@ -1,9 +1,6 @@
-[submodule "ecd3eb33df51dd779651f3829fd1295c"]
-	path = ecd3eb33df51dd779651f3829fd1295c
+[submodule "codeforces"]
+	path = codeforces
 	url = https://gist.github.com/damiannmm/ecd3eb33df51dd779651f3829fd1295c
 [submodule "project-euler"]
 	path = project-euler
 	url = https://gist.github.com/damiannmm/000d9a256b3663fbecff578954362b8b
-[submodule "codeforces"]
-	path = codeforces
-	url = https://gist.github.com/damiannmm/ecd3eb33df51dd779651f3829fd1295c
